@@ -156,7 +156,7 @@ body {
 .submit-button {
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 35%;
   background-color: rgb(255, 255, 255);
 }
 
@@ -183,4 +183,3 @@ body {
     rgba(249, 230, 255, 1) 100%
   );
 }
-
